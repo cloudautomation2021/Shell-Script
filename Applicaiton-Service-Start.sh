@@ -14,7 +14,7 @@
 #2)touch remote_servers.txt ( contains  List of server )
 
 
-App_user="application_user"
+App_user="app_user"
 
 ssh_connect="sshpass -f pass_file ssh -n -o StrictHostKeyChecking=no -o PubkeyAuthentication=no $App_user"
 
